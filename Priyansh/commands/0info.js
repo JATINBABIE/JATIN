@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "Shivam Saini",
+	credits: "𝐉𝐀𝐓𝐈𝐍 𝐒𝐇𝐀𝐑𝐌𝐀",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -25,21 +25,21 @@ const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
 ["https://i.imgur.com/hDDrvwg.jpeg"];
-var callback = () => api.sendMessage({body:`⏤͟͟͞͞❥ Th͜͡ɜ Uƞdɛ͜͡ɼwo͜͡ɼɭd Do͜͡ƞ Sʜɩv͜͡ʌɱ̽ Hɜ͜͡rɜ̽ ♛➺ 🫨👿
+var callback = () => api.sendMessage({body:`⏤͟͟͞͞❥ Th͜͡ɜ Uƞdɛ͜͡ɼwo͜͡ɼɭd Do͜͡ƞ 𝐉𝐀𝐓𝐔𝐍 Hɜ͜͡rɜ̽ ♛➺ 🫨👿
 
 ☄️𝐁𝐎𝐓 𝐍𝐀𝐌𝐄☄️  ${global.config.BOTNAME}
 
-🔥𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝆺𝅥☔❃ 𝐒𝐇𝐈𝐕𝐀𝐌 𝐒𝐀𝐈𝐍𝐈 😈
+🔥𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝆺𝅥☔❃ 𝐉𝐀𝐓𝐈𝐍 𝐒𝐇𝐑𝐌𝐀 😈
 
-🙈𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝐎𝐖𝐍𝐄𝐑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 𝐋𝐈𝐍𝐊 👻➪ https://www.facebook.com/profile.php?id=61582547945474 💞🕊️
+🙈𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝐎𝐖𝐍𝐄𝐑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 𝐋𝐈𝐍𝐊 👻➪ https://www.facebook.com/share/1QcDKzBVCn/ 💞🕊️
 
-👋𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝐎𝐖𝐍𝐄𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊 👻➪ https://t.me/+4PGA0R8RLl43MDY1
+👋𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍 𝐎𝐖𝐍𝐄𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊 👻➪ NA
 
 ✧══════•❁❀❁•══════✧
 
 🌸 🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑♥️ ⤾➝𝐒𝐇𝐈𝐕𝐀𝐌 𝐒𝐀𝐈𝐍𝐈 ↬ X⤹🩷😈🩵󱢏
+♥️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑♥️ ⤾➝𝐉𝐀𝐓𝐈𝐍   𝐒𝐇𝐀𝐑𝐌𝐀 ↬ X⤹🩷😈🩵󱢏
 
 🥳𝐔𝐏𝐓𝐈𝐌𝐄🥳
 
@@ -51,7 +51,7 @@ var callback = () => api.sendMessage({body:`⏤͟͟͞͞❥ Th͜͡ɜ Uƞdɛ͜͡ɼ
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✰✰🍒𝐒𝐇𝐈𝐕𝐀𝐌 𝐒𝐀𝐈𝐍𝐈🌿✰✰✧✧✦🌸
+🌸✦✧✧✰✰🍒𝐉𝐀𝐓𝐈𝐍  𝐒𝐇𝐀𝐑𝐌𝐀🌿✰✰✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 `,attachment: fs.createReadStream(__dirname + "/cache/juswa.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/juswa.jpg")); 
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/juswa.jpg")).on("close",() => callback());
